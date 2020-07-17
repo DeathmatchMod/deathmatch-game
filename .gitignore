@@ -54,3 +54,5 @@ config.cfg
 # shader files
 *.tmp
 
+dmo/modelsounds.cache
+user_custom/
