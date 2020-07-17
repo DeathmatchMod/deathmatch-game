@@ -56,3 +56,8 @@ config.cfg
 
 dmo/modelsounds.cache
 user_custom/
+server_blacklist.txt
+*.ain
+sound.cache
+stats.txt
+*.dt
