@@ -1,0 +1,3 @@
+[submodule "dmo/mapsrc"]
+	path = dmo/mapsrc
+	url = https://github.com/DeathmatchMod/deathmatch-mapsrc.git
